@@ -1,9 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_3_10270M" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.3_2_10257" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>Main Menu</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180217T145116Z" creationid="Dell" creationdate="20180217T145116Z">
+        <seg>Գլխավոր ընտրացուցակ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Menu</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180217T145029Z" creationid="Dell" creationdate="20180217T145029Z">
+        <seg>Ընտրացուցակ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Menu and Keyboard shortcuts</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180217T145105Z" creationid="Dell" creationdate="20180217T145105Z">
+        <seg>Ընտրացուցակ և ստեղնաշարի կարճատներ</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv lang="EN">
         <seg>OmegaT</seg>
