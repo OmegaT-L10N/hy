@@ -1,2 +1,1 @@
-# hy
-Armenian OmegaT Localisation
+# Armenian OmegaT Localisation
