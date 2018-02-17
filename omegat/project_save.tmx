@@ -12,6 +12,38 @@
         <seg>OmegaT</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} {1}</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Kos Ivantsov" changedate="20180217T131946Z" creationid="Kos Ivantsov" creationdate="20180217T131946Z">
+        <seg>{0} {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} {1}_{2}</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Kos Ivantsov" changedate="20180217T131951Z" creationid="Kos Ivantsov" creationdate="20180217T131951Z">
+        <seg>{0} {1}_{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}-{1}_{2}_{3}</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Kos Ivantsov" changedate="20180217T131938Z" creationid="Kos Ivantsov" creationdate="20180217T131938Z">
+        <seg>{0}-{1}_{2}_{3}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0}_{1}_{2}</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Kos Ivantsov" changedate="20180217T131927Z" creationid="Kos Ivantsov" creationdate="20180217T131927Z">
+        <seg>{0}_{1}_{2}</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
