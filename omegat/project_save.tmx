@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Previous Segment</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T203650Z" creationid="Dell" creationdate="20180218T203650Z">
+        <seg>&amp;Նախորդ հատված</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Project</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T144812Z" creationid="Dell" creationdate="20180218T144812Z">
@@ -314,6 +322,14 @@
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T172936Z" creationid="Dell" creationdate="20180218T172936Z">
         <seg>&amp;Որոնել նախագծի մեջ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Segment Number...</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T203813Z" creationid="Dell" creationdate="20180218T203813Z">
+        <seg>&amp;Հատված համար...</seg>
       </tuv>
     </tu>
     <tu>
@@ -698,6 +714,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Next &amp;Translated Segment</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T203631Z" creationid="Dell" creationdate="20180218T203631Z">
+        <seg>Հաջորդ &amp;թարգմանված հատված</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next &amp;Untranslated Segment</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T203606Z" creationid="Dell" creationdate="20180218T203606Z">
+        <seg>Հաջորդ &amp;չթարգմանված հատված</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Next N&amp;ote</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T195303Z" creationid="Dell" creationdate="20180218T195303Z">
@@ -782,6 +814,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T150915Z" creationid="Dell" creationdate="20180218T150915Z">
         <seg>Մուտքագրեք կամ փաքցրեք MediaWiki-ի էջի հասցեն</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Previous No&amp;te</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T203727Z" creationid="Dell" creationdate="20180218T203727Z">
+        <seg>Նախորդ նկա&amp;տառում</seg>
       </tuv>
     </tu>
     <tu>
