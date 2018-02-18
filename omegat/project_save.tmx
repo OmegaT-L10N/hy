@@ -268,10 +268,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Copy Files to Source Folder...</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T150524Z" creationid="Dell" creationdate="20180218T150524Z">
+        <seg>Պատճենել նիշքերը բնօրինակների պանակի մեջ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download &amp;Team Project...</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T144900Z" creationid="Dell" creationdate="20180218T144900Z">
         <seg>Ներբեռնել &amp;թիմային նախագիծը...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Download Media&amp;Wiki Page...</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T150706Z" creationid="Dell" creationdate="20180218T150706Z">
+        <seg>Ներբեռնել Media&amp;Wiki-ի էջը...</seg>
       </tuv>
     </tu>
     <tu>
