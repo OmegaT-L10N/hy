@@ -436,6 +436,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create &amp;Glossary Entry...</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T183557Z" creationid="Dell" creationdate="20180218T183557Z">
+        <seg>Ստեղծել &amp;գլոսարիումի տարր...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Create &amp;Translated Documents</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T164458Z" creationid="Dell" creationdate="20180218T164458Z">
@@ -784,6 +792,14 @@
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T140127Z" creationid="Dell" creationdate="20180218T140127Z">
         <seg>Ընտրել</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Mat&amp;ch</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T183633Z" creationid="Dell" creationdate="20180218T183633Z">
+        <seg>Ընրտրել համը&amp;նկնումը</seg>
       </tuv>
     </tu>
     <tu>
