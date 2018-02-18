@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Reload</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T162610Z" creationid="Dell" creationdate="20180218T162610Z">
+        <seg>&amp;Վերաբեռնել</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Remove</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T140137Z" creationid="Dell" creationdate="20180218T140137Z">
