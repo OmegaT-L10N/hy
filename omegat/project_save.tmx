@@ -46,6 +46,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>In order for the changes to take effect OmegaT needs to close and then open the project.</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T135752Z" creationid="Dell" creationdate="20180218T135752Z">
+        <seg>Փոփոխությունները ուժի մեջ մտնելու համար հարկավոր է փակել ու նորից բացել նախագիծը:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>L&amp;og...</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T135012Z" creationid="Dell" creationdate="20180218T135012Z">
+        <seg>Մատ&amp;յան...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Main Menu</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180217T145116Z" creationid="Dell" creationdate="20180217T145116Z">
