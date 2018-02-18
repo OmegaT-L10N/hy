@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Go To</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T184359Z" creationid="Dell" creationdate="20180218T184359Z">
+        <seg>&amp;Անցնել</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Help</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T134804Z" creationid="Dell" creationdate="20180218T134804Z">
@@ -162,6 +170,14 @@
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T144815Z" creationid="Dell" creationdate="20180218T144815Z">
         <seg>&amp;Նոր...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Next Segment</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T184436Z" creationid="Dell" creationdate="20180218T184436Z">
+        <seg>&amp;Հաջորդ հատված</seg>
       </tuv>
     </tu>
     <tu>
@@ -624,6 +640,14 @@
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180217T145105Z" creationid="Dell" creationdate="20180217T145105Z">
         <seg>Ընտրացուցակ և ստեղնաշարի կարճատներ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next N&amp;ote</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T195303Z" creationid="Dell" creationdate="20180218T195303Z">
+        <seg>Հաջորդ N&amp;ote</seg>
       </tuv>
     </tu>
     <tu>
