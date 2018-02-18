@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Insert Match or Selection</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T173131Z" creationid="Dell" creationdate="20180218T173131Z">
+        <seg>&amp;Ներդնել համընկնումը կամ ընտրվածքը</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Last Changes...</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T134951Z" creationid="Dell" creationdate="20180218T134951Z">
@@ -282,6 +290,14 @@
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T140131Z" creationid="Dell" creationdate="20180218T140131Z">
         <seg>&amp;Որոնել</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Search Project...</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T172936Z" creationid="Dell" creationdate="20180218T172936Z">
+        <seg>&amp;Որոնել նախագծի մեջ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -672,6 +688,14 @@
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T140332Z" creationid="Dell" creationdate="20180218T140332Z">
         <seg>Վերականգնել սկզբ&amp;նադիրները</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Search and Replace...</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T173005Z" creationid="Dell" creationdate="20180218T173005Z">
+        <seg>Որոնում և փոխարինում...</seg>
       </tuv>
     </tu>
     <tu>
