@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;New...</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T144815Z" creationid="Dell" creationdate="20180218T144815Z">
+        <seg>&amp;Նոր...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;OK</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T135859Z" creationid="Dell" creationdate="20180218T135859Z">
@@ -122,6 +130,14 @@
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T134800Z" creationid="Dell" creationdate="20180218T134800Z">
         <seg>&amp;Նախընտրություններ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Project</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T144812Z" creationid="Dell" creationdate="20180218T144812Z">
+        <seg>&amp;Նախագիծ</seg>
       </tuv>
     </tu>
     <tu>
@@ -236,6 +252,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download &amp;Team Project...</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T144900Z" creationid="Dell" creationdate="20180218T144900Z">
+        <seg>Ներբեռնել &amp;թիմային նախագիծը...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T140531Z" creationid="Dell" creationdate="20180218T140531Z">
@@ -300,6 +324,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT has chosen option 'Yes' automatically.</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T144807Z" creationid="Dell" creationdate="20180218T144807Z">
+        <seg>OmegaT-ն ինքնաշխատորեն ընտրել է «Այո» տարբերակը:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T140951Z" creationid="Dell" creationdate="20180218T140951Z">
@@ -320,6 +352,14 @@
 	Միայն նախագծի ուղին՝ Մեկնարկել ՕԳՄ-ը և բեռնել նշված նախագիքը
 	team
 		Թիմային նախագծերի հետ աշխատելու գործիք:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project is Empty</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T144733Z" creationid="Dell" creationdate="20180218T144733Z">
+        <seg>Նախագիծը դատարկ է</seg>
       </tuv>
     </tu>
     <tu>
@@ -376,6 +416,14 @@
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T141612Z" creationid="Dell" creationdate="20180218T141612Z">
         <seg>Օգտագործում՝ java -jar OmegaT.jar [&lt;ընտրանքներ&gt;] [&lt;նախագծի ուղին&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Warning</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T144717Z" creationid="Dell" creationdate="20180218T144717Z">
+        <seg>Զգուշացում</seg>
       </tuv>
     </tu>
     <tu>
