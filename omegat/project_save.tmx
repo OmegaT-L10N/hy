@@ -190,6 +190,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>--remote-project
+		Download an omegat.project file from the URL given as &lt;project
+		path&gt; and load the project.</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T144634Z" creationid="Dell" creationdate="20180218T144634Z">
+        <seg>--remote-project
+		Ներբեռնել omegat.project նիշքը հղումով, որը նշված է իբրև &lt;project
+		path&gt; և բեռնել նախագիծը:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>-h, --help
 		Show usage information.</seg>
       </tuv>
