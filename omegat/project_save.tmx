@@ -70,10 +70,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Finish</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T140448Z" creationid="Dell" creationdate="20180218T140448Z">
+        <seg>&amp;Ավարտել</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Fix All</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T140408Z" creationid="Dell" creationdate="20180218T140408Z">
+        <seg>&amp;Շիտկել բոլորը</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Help</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T134804Z" creationid="Dell" creationdate="20180218T134804Z">
         <seg>&amp;Օգնություն</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Insert</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T140350Z" creationid="Dell" creationdate="20180218T140350Z">
+        <seg>&amp;Ներդնել</seg>
       </tuv>
     </tu>
     <tu>
@@ -110,10 +134,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Remove Filter</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T140516Z" creationid="Dell" creationdate="20180218T140516Z">
+        <seg>&amp;Հեռացնել զտիչը</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Replace</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T140033Z" creationid="Dell" creationdate="20180218T140033Z">
         <seg>&amp;Փոխարինել</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Replace Next</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T140443Z" creationid="Dell" creationdate="20180218T140443Z">
+        <seg>&amp;Փոխարինել առաջ</seg>
       </tuv>
     </tu>
     <tu>
@@ -126,10 +166,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Skip</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T140424Z" creationid="Dell" creationdate="20180218T140424Z">
+        <seg>&amp;Բաց թողնել</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;User's Manual...</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T134924Z" creationid="Dell" creationdate="20180218T134924Z">
         <seg>&amp;Օգտագիրոջ ձեռնարկ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A&amp;dd</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T140239Z" creationid="Dell" creationdate="20180218T140239Z">
+        <seg>Ավե&amp;լացնել</seg>
       </tuv>
     </tu>
     <tu>
@@ -218,6 +274,14 @@
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T135848Z" creationid="Dell" creationdate="20180218T135848Z">
         <seg>Վերաբացե՞լ այս նախագիծը հիմա:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Restore De&amp;faults</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T140332Z" creationid="Dell" creationdate="20180218T140332Z">
+        <seg>Վերականգնել սկզբ&amp;նադիրները</seg>
       </tuv>
     </tu>
     <tu>
