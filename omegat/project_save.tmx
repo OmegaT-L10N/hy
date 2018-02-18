@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Save</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T162752Z" creationid="Dell" creationdate="20180218T162752Z">
+        <seg>&amp;Պահել</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Save As...</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T140527Z" creationid="Dell" creationdate="20180218T140527Z">
@@ -248,6 +256,22 @@
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T140239Z" creationid="Dell" creationdate="20180218T140239Z">
         <seg>Ավե&amp;լացնել</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Commit Source Files</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T162720Z" creationid="Dell" creationdate="20180218T162720Z">
+        <seg>Ամրագրել բնօրինակի նիշքերը</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Commit Target Files</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T162746Z" creationid="Dell" creationdate="20180218T162746Z">
+        <seg>Ամրագրել թարգմանված նիշքերը</seg>
       </tuv>
     </tu>
     <tu>
