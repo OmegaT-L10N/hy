@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Editor...</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T204506Z" creationid="Dell" creationdate="20180218T204506Z">
+        <seg>&amp;Խմբագրիչ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Filter</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T135918Z" creationid="Dell" creationdate="20180218T135918Z">
@@ -146,6 +154,14 @@
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T170222Z" creationid="Dell" creationdate="20180218T170222Z">
         <seg>&amp;Գլոսարիումներ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Glossary</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T204557Z" creationid="Dell" creationdate="20180218T204557Z">
+        <seg>&amp;Գլոսարիում</seg>
       </tuv>
     </tu>
     <tu>
@@ -370,6 +386,14 @@
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T203813Z" creationid="Dell" creationdate="20180218T203813Z">
         <seg>&amp;Հատված համար...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Segmentation...</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T204517Z" creationid="Dell" creationdate="20180218T204517Z">
+        <seg>&amp;Հատվածավորում...</seg>
       </tuv>
     </tu>
     <tu>
@@ -758,6 +782,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T184159Z" creationid="Dell" creationdate="20180218T184159Z">
         <seg>Գրել ձախից աջ (LRM U+200E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mac&amp;hine Translate</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T204550Z" creationid="Dell" creationdate="20180218T204550Z">
+        <seg>Մեքենայա&amp;կան թարգմանություն</seg>
       </tuv>
     </tu>
     <tu>
