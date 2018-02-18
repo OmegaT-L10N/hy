@@ -388,6 +388,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>1) Reduce the number of source files and translate in batches;</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T195516Z" creationid="Dell" creationdate="20180218T195516Z">
+        <seg>1) Պակասեցնել բնօրինակի նիշքերի քանակը և մասերով թարգմանել:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A&amp;dd</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T140239Z" creationid="Dell" creationdate="20180218T140239Z">
