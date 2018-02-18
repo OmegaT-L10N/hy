@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Dictionaries</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T165236Z" creationid="Dell" creationdate="20180218T165236Z">
+        <seg>&amp;Բառարաններ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Edit...</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T140159Z" creationid="Dell" creationdate="20180218T140159Z">
@@ -90,6 +98,14 @@
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T140408Z" creationid="Dell" creationdate="20180218T140408Z">
         <seg>&amp;Շիտկել բոլորը</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Glossaries</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T170222Z" creationid="Dell" creationdate="20180218T170222Z">
+        <seg>&amp;Գլոսարիումներ</seg>
       </tuv>
     </tu>
     <tu>
