@@ -292,6 +292,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Download MediaWiki Page</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T150729Z" creationid="Dell" creationdate="20180218T150729Z">
+        <seg>Ներբեռնել MediaWiki-ի էջը</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T140531Z" creationid="Dell" creationdate="20180218T140531Z">
@@ -392,6 +400,14 @@
 	Միայն նախագծի ուղին՝ Մեկնարկել ՕԳՄ-ը և բեռնել նշված նախագիքը
 	team
 		Թիմային նախագծերի հետ աշխատելու գործիք:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please type or paste the URL of the mediawiki page</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T150915Z" creationid="Dell" creationdate="20180218T150915Z">
+        <seg>Մուտքագրեք կամ փաքցրեք MediaWiki-ի էջի հասցեն</seg>
       </tuv>
     </tu>
     <tu>
