@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Align Files...</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T204220Z" creationid="Dell" creationdate="20180218T204220Z">
+        <seg>&amp;Հավասարեցնել նիշքերը...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Back</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T140117Z" creationid="Dell" creationdate="20180218T140117Z">
@@ -218,6 +226,14 @@
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T144911Z" creationid="Dell" creationdate="20180218T144911Z">
         <seg>&amp;Բացել...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Options</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T204245Z" creationid="Dell" creationdate="20180218T204245Z">
+        <seg>&amp;Նախընտրություններ</seg>
       </tuv>
     </tu>
     <tu>
@@ -754,6 +770,30 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Mark &amp;Translated Segments</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T204354Z" creationid="Dell" creationdate="20180218T204354Z">
+        <seg>Գունանշել &amp;թարգմանված հատվածները</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Mark &amp;Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T204414Z" creationid="Dell" creationdate="20180218T204414Z">
+        <seg>Գունանշել &amp;չթարգմանված հատվածները</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Match Statistics per &amp;File</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T204200Z" creationid="Dell" creationdate="20180218T204200Z">
+        <seg>Համընկնումների վիճակագրություն ըստ &amp;նիշքերի</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Menu</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180217T145029Z" creationid="Dell" creationdate="20180217T145029Z">
@@ -1002,6 +1042,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Scriptin&amp;g...</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T204231Z" creationid="Dell" creationdate="20180218T204231Z">
+        <seg>Սկրիպտ&amp;եր...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search and Replace...</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T173005Z" creationid="Dell" creationdate="20180218T173005Z">
@@ -1110,6 +1158,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T141612Z" creationid="Dell" creationdate="20180218T141612Z">
         <seg>Օգտագործում՝ java -jar OmegaT.jar [&lt;ընտրանքներ&gt;] [&lt;նախագծի ուղին&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &amp;TAB to Advance</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T204309Z" creationid="Dell" creationdate="20180218T204309Z">
+        <seg>Օգտագործել &amp;TAB առաջ անցնելու համար</seg>
       </tuv>
     </tu>
     <tu>
