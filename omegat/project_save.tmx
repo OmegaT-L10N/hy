@@ -572,6 +572,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Unicode Control Character</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T184143Z" creationid="Dell" creationdate="20180218T184143Z">
+        <seg>Ներդնել Unicode կառավարող նշանը</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Invoke `team -h` for details.</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T143237Z" creationid="Dell" creationdate="20180218T143237Z">
@@ -584,6 +592,14 @@
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T135012Z" creationid="Dell" creationdate="20180218T135012Z">
         <seg>Մատ&amp;յան...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Left-to-Right Mark (LRM U+200E)</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T184159Z" creationid="Dell" creationdate="20180218T184159Z">
+        <seg>Գրել ձախից աջ (LRM U+200E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -780,6 +796,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Right-to-Left Mark (RLM U+200F)</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T184213Z" creationid="Dell" creationdate="20180218T184213Z">
+        <seg>Գրել աջից ձախ (RLM U+200F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Search and Replace...</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T173005Z" creationid="Dell" creationdate="20180218T173005Z">
@@ -824,6 +848,38 @@
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T183952Z" creationid="Dell" creationdate="20180218T183952Z">
         <seg>Ընտրել համընկնում #&amp;1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #&amp;2</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T184018Z" creationid="Dell" creationdate="20180218T184018Z">
+        <seg>Ընտրել համընկնում #&amp;2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #&amp;3</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T184021Z" creationid="Dell" creationdate="20180218T184021Z">
+        <seg>Ընտրել համընկնում #&amp;3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #&amp;4</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T184028Z" creationid="Dell" creationdate="20180218T184028Z">
+        <seg>Ընտրել համընկնում #&amp;4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #&amp;5</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T184032Z" creationid="Dell" creationdate="20180218T184032Z">
+        <seg>Ընտրել համընկնում #&amp;5</seg>
       </tuv>
     </tu>
     <tu>
