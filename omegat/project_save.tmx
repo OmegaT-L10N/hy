@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Properties...</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T164917Z" creationid="Dell" creationdate="20180218T164917Z">
+        <seg>&amp;Հատկություններ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Reload</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T162610Z" creationid="Dell" creationdate="20180218T162610Z">
@@ -324,6 +332,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Create MED Project...</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T164857Z" creationid="Dell" creationdate="20180218T164857Z">
+        <seg>Ստեղծել MED նախագիծը...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download &amp;Team Project...</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T144900Z" creationid="Dell" creationdate="20180218T144900Z">
@@ -440,6 +456,14 @@
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T140951Z" creationid="Dell" creationdate="20180218T140951Z">
         <seg>OmegaT-ի հիշողությունը վերջացավ, ԼԱՎ կոճակը սեղմելուն պես ծրագիրը  կփակվի:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Open MED Project...</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T164655Z" creationid="Dell" creationdate="20180218T164655Z">
+        <seg>Բացել MED նախագիծը...</seg>
       </tuv>
     </tu>
     <tu>
