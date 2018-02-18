@@ -366,6 +366,16 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
+To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T202306Z" creationid="Dell" creationdate="20180218T202306Z">
+        <seg>(Օժանդակվող ձևաչափերի ցանկը կարելի է գտնել օգտատիրոջ ձեռնարկում  «Թարգմանվելիք նիշքեր» &gt; «Նիշքերի ձևաչափերը»:)
+Նախագծի մեջ նիշքեր ավելացնելու համար «Նախագծի նիշքեր» պատուհանում սեղմեք «Պատճենել նիշքերը բնօրինակների պանակի մեջ...» կոճակը կամ ընտրեք նույնանուն կետը «Նախագիծ» ընտրացանկում և նշեք բնօրինակի նիշքերը, որոնք ուզում եք պատճենել:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--remote-project
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
@@ -404,6 +414,14 @@ The current setting is {0}MB;</seg>
       <tuv lang="HY" changeid="Dell" changedate="20180218T195930Z" creationid="Dell" creationdate="20180218T195930Z">
         <seg>2) Ավելացնել OmegaT-ին հասանելի հիշողության ծավալը, հատկորոշելով  "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" հրամանատողում կամ OmegaT-ի մեկնարկի սկրիպտում:
 Այս պահի դրությամբ հասանելի է {0}ՄԲ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;auto&gt;</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T201040Z" creationid="Dell" creationdate="20180218T201040Z">
+        <seg>&lt;ինքնաշխատ&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1004,6 +1022,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T141219Z" creationid="Dell" creationdate="20180218T141219Z">
         <seg>Դուք կարող եք փորձել լուծել այս խնդիրը հետևյալ եղանակներից մեկով՝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your project does not contain any files in a supported file format.</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T201215Z" creationid="Dell" creationdate="20180218T201215Z">
+        <seg>Ձեր նախագիծը չի պարունակում օժանդակվող ձևաչափի որևէ նիշք:</seg>
       </tuv>
     </tu>
     <tu>
