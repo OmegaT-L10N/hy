@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Edit</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T172755Z" creationid="Dell" creationdate="20180218T172755Z">
+        <seg>&amp;Խմբագրել</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Edit...</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T140159Z" creationid="Dell" creationdate="20180218T140159Z">
@@ -190,6 +198,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Quit</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T172749Z" creationid="Dell" creationdate="20180218T172749Z">
+        <seg>&amp;Ելք</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Redo Last Action</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T172922Z" creationid="Dell" creationdate="20180218T172922Z">
+        <seg>&amp;Կրկնել վերջին գործողությունը</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Reload</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T162610Z" creationid="Dell" creationdate="20180218T162610Z">
@@ -282,6 +306,14 @@
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T170358Z" creationid="Dell" creationdate="20180218T170358Z">
         <seg>&amp;Թարգմանված նիշքեր</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Undo Last Action</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T172814Z" creationid="Dell" creationdate="20180218T172814Z">
+        <seg>&amp;Հետարկել վերջին գործողությունը</seg>
       </tuv>
     </tu>
     <tu>
