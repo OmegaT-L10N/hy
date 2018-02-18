@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You may try to solve this problem in one of the following ways:</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T141219Z" creationid="Dell" creationdate="20180218T141219Z">
+        <seg>Դուք կարող եք փորձել լուծել այս խնդիրը հետևյալ եղանակներից մեկով՝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>{0} {1}</seg>
       </tuv>
       <tuv lang="HY" changeid="Kos Ivantsov" changedate="20180217T131946Z" creationid="Kos Ivantsov" creationdate="20180217T131946Z">
