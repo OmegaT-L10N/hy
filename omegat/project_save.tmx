@@ -508,6 +508,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I&amp;nsert Source</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T182404Z" creationid="Dell" creationdate="20180218T182404Z">
+        <seg>Ներ&amp;դնել բնօրինակը</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Importing Wiki Page Failed</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T151703Z" creationid="Dell" creationdate="20180218T151703Z">
@@ -688,6 +696,14 @@
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T135848Z" creationid="Dell" creationdate="20180218T135848Z">
         <seg>Վերաբացե՞լ այս նախագիծը հիմա:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Replace with &amp;Machine Translation</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T182303Z" creationid="Dell" creationdate="20180218T182303Z">
+        <seg>Փոխարինել &amp;մեքենայական թարգմանությունով</seg>
       </tuv>
     </tu>
     <tu>
