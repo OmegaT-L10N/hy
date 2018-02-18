@@ -796,10 +796,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select &amp;Next Match</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T183734Z" creationid="Dell" creationdate="20180218T183734Z">
+        <seg>Ընտրել &amp;հաջորդ համընկնումը</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select &amp;Previous Match</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T183936Z" creationid="Dell" creationdate="20180218T183936Z">
+        <seg>Ընտրել &amp;նախորդ համընկնումը</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select Mat&amp;ch</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T183633Z" creationid="Dell" creationdate="20180218T183633Z">
         <seg>Ընրտրել համը&amp;նկնումը</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Select Match #&amp;1</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T183952Z" creationid="Dell" creationdate="20180218T183952Z">
+        <seg>Ընտրել համընկնում #&amp;1</seg>
       </tuv>
     </tu>
     <tu>
