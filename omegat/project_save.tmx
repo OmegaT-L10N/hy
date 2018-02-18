@@ -504,6 +504,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T201029Z" creationid="Dell" creationdate="20180218T201029Z">
+        <seg>Այս պահի դրությամբ վիրտուալ մեքենան օգտագործում է {0}ՄԲ, որից ազատ է՝ {1}ՄԲ, հասանելի հիշողության առավելագույն ծավալն է {2}ՄԲ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download &amp;Team Project...</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T144900Z" creationid="Dell" creationdate="20180218T144900Z">
@@ -704,6 +712,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT will now terminate.</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T200245Z" creationid="Dell" creationdate="20180218T200245Z">
+        <seg>OmegaT-ն հիմա կփակվի:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Open MED Project...</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T164655Z" creationid="Dell" creationdate="20180218T164655Z">
@@ -852,6 +868,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T184213Z" creationid="Dell" creationdate="20180218T184213Z">
         <seg>Գրել աջից ձախ (RLM U+200F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Running on Java {0} ({1}-bit)</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T200340Z" creationid="Dell" creationdate="20180218T200340Z">
+        <seg>Ծրագիրը մեկնարկած է Java-ով {0} ({1}-բիթ)</seg>
       </tuv>
     </tu>
     <tu>
