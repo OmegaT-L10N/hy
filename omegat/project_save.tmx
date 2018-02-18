@@ -6,6 +6,46 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>&amp;About...</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T134940Z" creationid="Dell" creationdate="20180218T134940Z">
+        <seg>&amp;Ծրագրի մասին...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Help</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T134804Z" creationid="Dell" creationdate="20180218T134804Z">
+        <seg>&amp;Օգնություն</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Last Changes...</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T134951Z" creationid="Dell" creationdate="20180218T134951Z">
+        <seg>&amp;Վերջին փոփոխությունները...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Preferences...</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T134800Z" creationid="Dell" creationdate="20180218T134800Z">
+        <seg>&amp;Նախընտրություններ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;User's Manual...</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T134924Z" creationid="Dell" creationdate="20180218T134924Z">
+        <seg>&amp;Օգտագիրոջ ձեռնարկ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Main Menu</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180217T145116Z" creationid="Dell" creationdate="20180217T145116Z">
