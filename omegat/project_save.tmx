@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T141612Z" creationid="Dell" creationdate="20180218T141612Z">
+        <seg>Օգտագործում՝ java -jar OmegaT.jar [&lt;ընտրանքներ&gt;] [&lt;նախագծի ուղին&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You may try to solve this problem in one of the following ways:</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T141219Z" creationid="Dell" creationdate="20180218T141219Z">
