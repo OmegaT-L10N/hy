@@ -1018,6 +1018,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T203449Z" creationid="Dell" creationdate="20180218T203449Z">
+        <seg>Բացի այդ կարող եք նիշքերը ուղղակի անմիջապես պատճենել նախագծի «source» պանակի մեջ և վերաբեռնել նախագիծը «Նախագիծ» ընտրացուցակի «Վերաբեռնել» կոճակի միջոցով:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You may try to solve this problem in one of the following ways:</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T141219Z" creationid="Dell" creationdate="20180218T141219Z">
