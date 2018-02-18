@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Save As...</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T140527Z" creationid="Dell" creationdate="20180218T140527Z">
+        <seg>&amp;Պահել իբրև...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Search</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T140131Z" creationid="Dell" creationdate="20180218T140131Z">
@@ -194,6 +202,22 @@
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T140112Z" creationid="Dell" creationdate="20180218T140112Z">
         <seg>Բովան&amp;դակություն</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Confirm</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T140545Z" creationid="Dell" creationdate="20180218T140545Z">
+        <seg>Հաստատել</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T140531Z" creationid="Dell" creationdate="20180218T140531Z">
+        <seg>Սխալ</seg>
       </tuv>
     </tu>
     <tu>
