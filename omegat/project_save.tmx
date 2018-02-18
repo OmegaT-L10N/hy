@@ -396,6 +396,18 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>2) Increase the amount of memory available to OmegaT, by
+specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
+command line or in the OmegaT start script;
+The current setting is {0}MB;</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T195930Z" creationid="Dell" creationdate="20180218T195930Z">
+        <seg>2) Ավելացնել OmegaT-ին հասանելի հիշողության ծավալը, հատկորոշելով  "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" հրամանատողում կամ OmegaT-ի մեկնարկի սկրիպտում:
+Այս պահի դրությամբ հասանելի է {0}ՄԲ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A&amp;dd</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T140239Z" creationid="Dell" creationdate="20180218T140239Z">
