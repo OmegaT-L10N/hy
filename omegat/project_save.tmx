@@ -660,6 +660,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>R&amp;eplace with Match or Selection</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T182240Z" creationid="Dell" creationdate="20180218T182240Z">
+        <seg>Փոխարինել համընկնման կամ ընտրվածքի վրա</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Re&amp;move Filter</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T140016Z" creationid="Dell" creationdate="20180218T140016Z">
