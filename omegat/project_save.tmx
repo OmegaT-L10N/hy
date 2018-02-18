@@ -278,6 +278,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Options:
+	None: Launch GUI
+	Project path only: Launch GUI and load specified project
+	team
+		Team project tool.</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T143032Z" creationid="Dell" creationdate="20180218T143032Z">
+        <seg>Ընտրանքներ՝
+	Չկա՝ Մեկնարկել ՕԳՄ-ը
+	Միայն նախագծի ուղին՝ Մեկնարկել ՕԳՄ-ը և բեռնել նշված նախագիքը
+	team
+		Թիմային նախագծերի հետ աշխատելու գործիք:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>R&amp;emove</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T140146Z" creationid="Dell" creationdate="20180218T140146Z">
