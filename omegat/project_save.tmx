@@ -484,6 +484,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>E&amp;xport Selection</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T182616Z" creationid="Dell" creationdate="20180218T182616Z">
+        <seg>Արտա&amp;հանել ընտրվածքը</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T140531Z" creationid="Dell" creationdate="20180218T140531Z">
@@ -528,6 +536,22 @@
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T135752Z" creationid="Dell" creationdate="20180218T135752Z">
         <seg>Փոփոխությունները ուժի մեջ մտնելու համար հարկավոր է փակել ու նորից բացել նախագիծը:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Missing Source &amp;Tags</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T182713Z" creationid="Dell" creationdate="20180218T182713Z">
+        <seg>Ներդնել բնօրինակի բացակայող &amp;պիտակները</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Insert Next Missing Tag</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T182757Z" creationid="Dell" creationdate="20180218T182757Z">
+        <seg>Ներդնել հաջորդ բացակայող պիտակը</seg>
       </tuv>
     </tu>
     <tu>
@@ -688,6 +712,14 @@
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T140047Z" creationid="Dell" creationdate="20180218T140047Z">
         <seg>Փոխա&amp;րինել բոլորը</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Re&amp;place with Source</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T182603Z" creationid="Dell" creationdate="20180218T182603Z">
+        <seg>Փոխարինել&amp; բնօրինակով</seg>
       </tuv>
     </tu>
     <tu>
