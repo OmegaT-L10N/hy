@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Back in History</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T203832Z" creationid="Dell" creationdate="20180218T203832Z">
+        <seg>&amp;Հետ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T135908Z" creationid="Dell" creationdate="20180218T135908Z">
@@ -118,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Forward in History</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T203824Z" creationid="Dell" creationdate="20180218T203824Z">
+        <seg>&amp;Առաջ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Glossaries</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T170222Z" creationid="Dell" creationdate="20180218T170222Z">
@@ -162,6 +178,14 @@
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T134951Z" creationid="Dell" creationdate="20180218T134951Z">
         <seg>&amp;Վերջին փոփոխությունները...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Match Statistics</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T204113Z" creationid="Dell" creationdate="20180218T204113Z">
+        <seg>&amp;Համընկնումների վիճակագրություն</seg>
       </tuv>
     </tu>
     <tu>
@@ -350,10 +374,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Statistics</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T204055Z" creationid="Dell" creationdate="20180218T204055Z">
+        <seg>&amp;Վիճակագրություն</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Target Files</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T170358Z" creationid="Dell" creationdate="20180218T170358Z">
         <seg>&amp;Թարգմանված նիշքեր</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Tools</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T203928Z" creationid="Dell" creationdate="20180218T203928Z">
+        <seg>&amp;Գործիքներ</seg>
       </tuv>
     </tu>
     <tu>
@@ -454,6 +494,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T170538Z" creationid="Dell" creationdate="20180218T170538Z">
         <seg>Ըն&amp;թացիկ թարգմանված փաստաթուղթ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check &amp;Issues...</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T203950Z" creationid="Dell" creationdate="20180218T203950Z">
+        <seg>Սխալների &amp;որոնում...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Check Issues for &amp;Current Document</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T204044Z" creationid="Dell" creationdate="20180218T204044Z">
+        <seg>Սխալների որոնում &amp;ընթացիկ փաստաթղթում</seg>
       </tuv>
     </tu>
     <tu>
@@ -734,6 +790,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T195303Z" creationid="Dell" creationdate="20180218T195303Z">
         <seg>Հաջորդ N&amp;ote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next Uni&amp;que Segment</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T203923Z" creationid="Dell" creationdate="20180218T203923Z">
+        <seg>Հաջորդ եզա&amp;կի հատված</seg>
       </tuv>
     </tu>
     <tu>
