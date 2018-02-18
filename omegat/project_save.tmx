@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Current Source Document</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T170416Z" creationid="Dell" creationdate="20180218T170416Z">
+        <seg>&amp;Ընթացիկ բնօրինակ փաստաթուղթ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Dictionaries</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T165236Z" creationid="Dell" creationdate="20180218T165236Z">
@@ -262,6 +270,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Source Files</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T170343Z" creationid="Dell" creationdate="20180218T170343Z">
+        <seg>&amp;Բնօրինակի նիշքեր</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&amp;Target Files</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T170358Z" creationid="Dell" creationdate="20180218T170358Z">
+        <seg>&amp;Թարգմանված նիշքեր</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;User's Manual...</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T134924Z" creationid="Dell" creationdate="20180218T134924Z">
@@ -296,6 +320,14 @@
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T140239Z" creationid="Dell" creationdate="20180218T140239Z">
         <seg>Ավե&amp;լացնել</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>C&amp;urrent Target Document</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T170538Z" creationid="Dell" creationdate="20180218T170538Z">
+        <seg>Ըն&amp;թացիկ թարգմանված փաստաթուղթ</seg>
       </tuv>
     </tu>
     <tu>
@@ -608,6 +640,14 @@
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T140127Z" creationid="Dell" creationdate="20180218T140127Z">
         <seg>Ընտրել</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>T&amp;Ms</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T170235Z" creationid="Dell" creationdate="20180218T170235Z">
+        <seg>T&amp;M նիշքեր</seg>
       </tuv>
     </tu>
     <tu>
