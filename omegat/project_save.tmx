@@ -556,6 +556,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Insert Tag {0}</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T182810Z" creationid="Dell" creationdate="20180218T182810Z">
+        <seg>Ներդնել պիտակը {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Invoke `team -h` for details.</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T143237Z" creationid="Dell" creationdate="20180218T143237Z">
@@ -724,6 +732,22 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Register Identical Translation</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T183331Z" creationid="Dell" creationdate="20180218T183331Z">
+        <seg>Գրանցել բնօրինակին նույնական թարգմանությունը</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Remove translation</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T182822Z" creationid="Dell" creationdate="20180218T182822Z">
+        <seg>Հեռացնել թարգմանությունը</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Reopen the project now?</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T135848Z" creationid="Dell" creationdate="20180218T135848Z">
@@ -760,6 +784,14 @@
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T140127Z" creationid="Dell" creationdate="20180218T140127Z">
         <seg>Ընտրել</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Set empty translation</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T182933Z" creationid="Dell" creationdate="20180218T182933Z">
+        <seg>Կայել դատարկ թարգմանությունը</seg>
       </tuv>
     </tu>
     <tu>
