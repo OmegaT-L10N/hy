@@ -190,6 +190,16 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>-h, --help
+		Show usage information.</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T144403Z" creationid="Dell" creationdate="20180218T144403Z">
+        <seg>-h, --help
+		Ցուցադրել տեղեկանքը:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>A&amp;dd</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T140239Z" creationid="Dell" creationdate="20180218T140239Z">
@@ -226,6 +236,14 @@
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T135752Z" creationid="Dell" creationdate="20180218T135752Z">
         <seg>Փոփոխությունները ուժի մեջ մտնելու համար հարկավոր է փակել ու նորից բացել նախագիծը:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Invoke `team -h` for details.</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T143237Z" creationid="Dell" creationdate="20180218T143237Z">
+        <seg>Կանչեք `team -h` մանրամասների համար:</seg>
       </tuv>
     </tu>
     <tu>
