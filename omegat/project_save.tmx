@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Access Project Contents</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T165217Z" creationid="Dell" creationdate="20180218T165217Z">
+        <seg>&amp;Բացել նախագծի պարունակությունը</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Add</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T140230Z" creationid="Dell" creationdate="20180218T140230Z">
@@ -198,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Root</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T165231Z" creationid="Dell" creationdate="20180218T165231Z">
+        <seg>&amp;Արմատ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Save</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T162752Z" creationid="Dell" creationdate="20180218T162752Z">
@@ -372,6 +388,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>File &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T165003Z" creationid="Dell" creationdate="20180218T165003Z">
+        <seg>Նիշքերի &amp;զտիչներ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>File Copy Failed</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T151634Z" creationid="Dell" creationdate="20180218T151634Z">
@@ -476,6 +500,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Options</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T164943Z" creationid="Dell" creationdate="20180218T164943Z">
+        <seg>Նախընտրություններ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Options:
 	None: Launch GUI
 	Project path only: Launch GUI and load specified project
@@ -496,6 +528,14 @@
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T150915Z" creationid="Dell" creationdate="20180218T150915Z">
         <seg>Մուտքագրեք կամ փաքցրեք MediaWiki-ի էջի հասցեն</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project &amp;Files...</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T165150Z" creationid="Dell" creationdate="20180218T165150Z">
+        <seg>Նախագծի &amp;նիշքեր...</seg>
       </tuv>
     </tu>
     <tu>
