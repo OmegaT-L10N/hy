@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180218T140951Z" creationid="Dell" creationdate="20180218T140951Z">
+        <seg>OmegaT-ի հիշողությունը վերջացավ, ԼԱՎ կոճակը սեղմելուն պես ծրագիրը  կփակվի:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>R&amp;emove</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T140146Z" creationid="Dell" creationdate="20180218T140146Z">
