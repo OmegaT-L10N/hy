@@ -650,6 +650,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dictionar&amp;y</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180221T083522Z" creationid="Dell" creationdate="20180221T083522Z">
+        <seg>Բառա&amp;րան</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display context description for TBX &amp;glossaries</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180221T080151Z" creationid="Dell" creationdate="20180221T080151Z">
@@ -710,6 +718,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T151634Z" creationid="Dell" creationdate="20180218T151634Z">
         <seg>Չհաջողվեց  պատճենել նիշքը</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Glossary</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180221T083514Z" creationid="Dell" creationdate="20180221T083514Z">
+        <seg>Գլոսարիում</seg>
       </tuv>
     </tu>
     <tu>
@@ -1214,6 +1230,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T141612Z" creationid="Dell" creationdate="20180218T141612Z">
         <seg>Օգտագործում՝ java -jar OmegaT.jar [&lt;ընտրանքներ&gt;] [&lt;նախագծի ուղին&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180221T095052Z" creationid="Dell" creationdate="20180221T095052Z">
+        <seg>&amp;Օգտագործել անստույգ համընկնումները բառարանային հոդվածների համար</seg>
       </tuv>
     </tu>
     <tu>
