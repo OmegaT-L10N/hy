@@ -658,6 +658,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Dictionary</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180221T095057Z" creationid="Dell" creationdate="20180221T095057Z">
+        <seg>Բառարան</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display context description for TBX &amp;glossaries</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180221T080151Z" creationid="Dell" creationdate="20180221T080151Z">
