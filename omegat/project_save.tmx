@@ -1050,6 +1050,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Replace &amp;glossary hits when inserting source text</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180221T083009Z" creationid="Dell" creationdate="20180221T083009Z">
+        <seg>Փոխարինել համընկնումները գլոսարիումի հետ բնօրինակի գրվածքի ներդրման ժամանակ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Replace with &amp;Machine Translation</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T182303Z" creationid="Dell" creationdate="20180218T182303Z">
