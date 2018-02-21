@@ -1210,6 +1210,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use terms &amp;appearing separately in the source text</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180221T080404Z" creationid="Dell" creationdate="20180221T080404Z">
+        <seg>&amp;Օգտագործել բնօրինակի գրվածքում առանձին դրված եզրերը</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Warning</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T144717Z" creationid="Dell" creationdate="20180218T144717Z">
