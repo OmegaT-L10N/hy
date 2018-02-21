@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180221T083508Z" creationid="Dell" creationdate="20180221T083508Z">
+        <seg>&amp;Անտեսել համընկնումները, որոնք զգալիորեն տարբերվում են տառաչափությամբ (օր.՝ «ՏՈՒՆ» և «տուն»)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Insert</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T140350Z" creationid="Dell" creationdate="20180218T140350Z">
