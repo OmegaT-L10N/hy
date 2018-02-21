@@ -1210,6 +1210,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Use &amp;stemming for glossary entries</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180221T080617Z" creationid="Dell" creationdate="20180221T080617Z">
+        <seg>Բառարանային հոդվածների համար &amp;հիմնավորում օգտագործել</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Use terms &amp;appearing separately in the source text</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180221T080404Z" creationid="Dell" creationdate="20180221T080404Z">
