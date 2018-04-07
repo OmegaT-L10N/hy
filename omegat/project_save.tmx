@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&amp;Files</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180407T213847Z" creationid="Dell" creationdate="20180407T213847Z">
+        <seg>&amp;Նիշքերում</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&amp;Filter</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T135918Z" creationid="Dell" creationdate="20180218T135918Z">
@@ -534,6 +542,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T140239Z" creationid="Dell" creationdate="20180218T140239Z">
         <seg>Ավե&amp;լացնել</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Aut&amp;hor:</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180407T213837Z" creationid="Dell" creationdate="20180407T213837Z">
+        <seg>&amp;Հեղինակ՝</seg>
       </tuv>
     </tu>
     <tu>
@@ -962,6 +978,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Now</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180407T213824Z" creationid="Dell" creationdate="20180407T213824Z">
+        <seg>Հիմա</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>OmegaT</seg>
       </tuv>
       <tuv lang="HY" changeid="Kos Ivantsov" changedate="20180217T131736Z" creationid="Kos Ivantsov" creationdate="20180217T131736Z">
@@ -1046,6 +1070,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T203727Z" creationid="Dell" creationdate="20180218T203727Z">
         <seg>Նախորդ նկա&amp;տառում</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pro&amp;ject</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180407T213900Z" creationid="Dell" creationdate="20180407T213900Z">
+        <seg>Նախա&amp;գիծ</seg>
       </tuv>
     </tu>
     <tu>
