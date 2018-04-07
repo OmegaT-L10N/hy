@@ -488,6 +488,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>+{0} more</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180407T214807Z" creationid="Dell" creationdate="20180407T214807Z">
+        <seg>+{0} ավելին</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>--remote-project
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
@@ -698,6 +706,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display:</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180407T214737Z" creationid="Dell" creationdate="20180407T214737Z">
+        <seg>Ցուցադրել՝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Download &amp;Team Project...</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T144900Z" creationid="Dell" creationdate="20180218T144900Z">
@@ -878,6 +894,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T184159Z" creationid="Dell" creationdate="20180218T184159Z">
         <seg>Գրել ձախից աջ (LRM U+200E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Location</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180407T214726Z" creationid="Dell" creationdate="20180407T214726Z">
+        <seg>Տեղադրություն</seg>
       </tuv>
     </tu>
     <tu>
@@ -1266,6 +1290,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Select Fol&amp;der</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180407T214716Z" creationid="Dell" creationdate="20180407T214716Z">
+        <seg>Ընտրել պա&amp;նակը</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Select Mat&amp;ch</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T183633Z" creationid="Dell" creationdate="20180218T183633Z">
@@ -1334,6 +1366,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T170235Z" creationid="Dell" creationdate="20180218T170235Z">
         <seg>T&amp;M նիշքեր</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>U&amp;ntranslated</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180407T214758Z" creationid="Dell" creationdate="20180407T214758Z">
+        <seg>Չ&amp;թարգմանված</seg>
       </tuv>
     </tu>
     <tu>
@@ -1414,6 +1454,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180407T213718Z" creationid="Dell" creationdate="20180407T213718Z">
         <seg>անհայտ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>{0} +{1} more</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180407T214835Z" creationid="Dell" creationdate="20180407T214835Z">
+        <seg>{0} +{1}</seg>
       </tuv>
     </tu>
     <tu>
