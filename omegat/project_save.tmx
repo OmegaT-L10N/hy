@@ -666,6 +666,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Display Font</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180407T213740Z" creationid="Dell" creationdate="20180407T213740Z">
+        <seg>Ցուցադրվող տառատեսակ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Display context description for TBX &amp;glossaries</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180221T080151Z" creationid="Dell" creationdate="20180221T080151Z">
@@ -706,6 +714,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>ERROR: {0}</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180407T213819Z" creationid="Dell" creationdate="20180407T213819Z">
+        <seg>ՍԽԱԼ՝ {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T140531Z" creationid="Dell" creationdate="20180218T140531Z">
@@ -726,6 +742,30 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T151634Z" creationid="Dell" creationdate="20180218T151634Z">
         <seg>Չհաջողվեց  պատճենել նիշքը</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filename</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180407T213628Z" creationid="Dell" creationdate="20180407T213628Z">
+        <seg>Նիշքի անուն</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Filter</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180407T213615Z" creationid="Dell" creationdate="20180407T213615Z">
+        <seg>Զտիչ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Font</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180407T213634Z" creationid="Dell" creationdate="20180407T213634Z">
+        <seg>Տառատեսակ</seg>
       </tuv>
     </tu>
     <tu>
@@ -882,6 +922,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>More</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180407T213757Z" creationid="Dell" creationdate="20180407T213757Z">
+        <seg>Ավելին</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Next &amp;Translated Segment</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T203631Z" creationid="Dell" creationdate="20180218T203631Z">
@@ -1006,6 +1054,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T165150Z" creationid="Dell" creationdate="20180218T165150Z">
         <seg>Նախագծի &amp;նիշքեր...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project Files ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180407T213656Z" creationid="Dell" creationdate="20180407T213656Z">
+        <seg>Նախագծի նիշքեր ({0} of {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project Files ({0})</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180407T213644Z" creationid="Dell" creationdate="20180407T213644Z">
+        <seg>Նախագծի նիշքեր{0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -1226,6 +1290,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Size</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180407T213711Z" creationid="Dell" creationdate="20180407T213711Z">
+        <seg>Չափ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>T&amp;Ms</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T170235Z" creationid="Dell" creationdate="20180218T170235Z">
@@ -1302,6 +1374,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T201215Z" creationid="Dell" creationdate="20180218T201215Z">
         <seg>Ձեր նախագիծը չի պարունակում օժանդակվող ձևաչափի որևէ նիշք:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>unknown</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180407T213718Z" creationid="Dell" creationdate="20180407T213718Z">
+        <seg>անհայտ</seg>
       </tuv>
     </tu>
     <tu>
