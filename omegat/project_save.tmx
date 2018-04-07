@@ -754,10 +754,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180407T214851Z" creationid="Dell" creationdate="20180407T214851Z">
+        <seg>Խմբագրել</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Error</seg>
       </tuv>
       <tuv lang="HY" changeid="Dell" changedate="20180218T140531Z" creationid="Dell" creationdate="20180218T140531Z">
         <seg>Սխալ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>File</seg>
+      </tuv>
+      <tuv lang="HY" changeid="Dell" changedate="20180407T214844Z" creationid="Dell" creationdate="20180407T214844Z">
+        <seg>Նիշք</seg>
       </tuv>
     </tu>
     <tu>
